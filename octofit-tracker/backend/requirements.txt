@@ -1,4 +1,4 @@
 # OctoFit Tracker backend requirements
 # 参考 monafit-tracker，建议使用 Django 及相关依赖
-Django>=3.2
+Django==4.1
 djangorestframework
